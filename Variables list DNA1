@@ -1,0 +1,9 @@
+"fragDnafile" is going to hold the dna fragment file open
+
+"susDnafile" is going to hold the suspect dna file open
+
+"susDnavar" is going to hold what is the the suspect dna file which is the suspects dna
+
+"fragDnavar" is going to hold what is in the dna fragment file which is the dna fragment of what was found at the scene
+
+"indexPos" is going the hold the int of the index postion of the dna fragment sequence that is in the suspects dna

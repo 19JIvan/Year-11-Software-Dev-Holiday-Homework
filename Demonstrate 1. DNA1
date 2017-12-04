@@ -1,0 +1,2 @@
+you would need to open the fragment write it to a variable open the suspect write it to a variable use .find to find the
+index of the fragment sequence then print the index out to the user

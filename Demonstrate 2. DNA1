@@ -1,0 +1,11 @@
+open dna fragment file to a variable
+
+open suspects dna file to a variable
+
+read the suspects dna file to a variable
+
+read the dna fragment file to a variable
+
+find the index of the dna fragment variable in the suspects dna variable and put the answer into a variable
+
+print out the fragment "fragment variable" is at an index of "variable of index" use format to input the variables
