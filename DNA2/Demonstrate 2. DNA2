@@ -1,0 +1,267 @@
+create suspect_1/_2/_3/_4/_5/_6 variables and set them to nothing
+
+open all dna fragment files to different variables
+
+open all suspect dna files to different variables
+
+read all the suspect dna files to different variables
+
+read all the dna fragment files to different variables
+
+close all the dna fragment and the suspects dna files
+
+find the dna fragments index in each suspect by using .find then add the index to different variables for each suspect and fragment
+
+check if index of suspect 1 fragment 1 does not equal -1
+    change variable suspect_1 to ", 1"
+
+check if index of suspect 2 fragment 1 does not equal -1
+    change variable suspect_2 to ", 2"
+
+check if index of suspect 3 fragment 1 does not equal -1
+    change variable suspect_3 to ", 3"
+
+check if index of suspect 4 fragment 1 does not equal -1
+    change variable suspect_4 to ", 4"
+
+check if index of suspect 5 fragment 1 does not equal -1
+    change variable suspect_5 to ", 5"
+
+add all the variables of suspect_x to a str by using .format eg "{0}{1}{2}{3}{4}".format(suspect_1, suspect_2, etc, etc) and add that to a variable
+
+use the [:] to get rid of the ", " from the very start of the string and add the edited str1 to a variable
+
+get the last value of the str1 by using [-1] and add that to a variable
+
+make a str2 eg ", " plus the variable of the last value of the str1 and add the to a variable
+
+get the length of the str1 and add it to a variable
+
++ 1 onto the int of the length of str1 and add that to a variable
+
+- 3 off the int of the length of str1 and add that to a variable
+
+use the [:] method to get the ", 'last value'" eg [len +1 variable:len -3 variable] and add the str3 to a variable
+
+replace the ", " in the str3 using .replace(", ", " and ") and add the new str4 to a variable
+
+strip the last ''''", " + last value''' using .strip and add the new str5 to a variable
+
+add str4 and str5 back together to form the new edited str and add that to a variable
+
+print the new edited str by using .format eg "dna fragment 1 matches suspect {0}".format(str)
+
+add a print() to seperate the nexted printed thing
+
+set the suspect_1/_2/ect/ect to nothing to they can be use again
+
+check if index of suspect 1 fragment 2 does not equal -1
+    change variable suspect_1 to ", 1"
+
+check if index of suspect 2 fragment 2 does not equal -1
+    change variable suspect_2 to ", 2"
+
+check if index of suspect 3 fragment 2 does not equal -1
+    change variable suspect_3 to ", 3"
+
+check if index of suspect 4 fragment 2 does not equal -1
+    change variable suspect_4 to ", 4"
+
+check if index of suspect 5 fragment 2 does not equal -1
+    change variable suspect_5 to ", 5"
+
+add all the variables of suspect_x to a str by using .format eg "{0}{1}{2}{3}{4}".format(suspect_1, suspect_2, etc, etc) and add that to a variable
+
+use the [:] to get rid of the ", " from the very start of the string and add the edited str1 to a variable
+
+get the last value of the str1 by using [-1] and add that to a variable
+
+make a str2 eg ", " plus the variable of the last value of the str1 and add the to a variable
+
+get the length of the str1 and add it to a variable
+
++ 1 onto the int of the length of str1 and add that to a variable
+
+- 3 off the int of the length of str1 and add that to a variable
+
+use the [:] method to get the ", 'last value'" eg [len +1 variable:len -3 variable] and add the str3 to a variable
+
+replace the ", " in the str3 using .replace(", ", " and ") and add the new str4 to a variable
+
+strip the last ''''", " + last value''' using .strip and add the new str5 to a variable
+
+add str4 and str5 back together to form the new edited str and add that to a variable
+
+print the new edited str by using .format eg "dna fragment 1 matches suspect {0}".format(str)
+
+add a print() to seperate the nexted printed thing
+
+set the suspect_1/_2/ect/ect to nothing to they can be use again
+
+check if index of suspect 1 fragment 3 does not equal -1
+    change variable suspect_1 to ", 1"
+
+check if index of suspect 2 fragment 3 does not equal -1
+    change variable suspect_2 to ", 2"
+
+check if index of suspect 3 fragment 3 does not equal -1
+    change variable suspect_3 to ", 3"
+
+check if index of suspect 4 fragment 3 does not equal -1
+    change variable suspect_4 to ", 4"
+
+check if index of suspect 5 fragment 3 does not equal -1
+    change variable suspect_5 to ", 5"
+
+add all the variables of suspect_x to a str by using .format eg "{0}{1}{2}{3}{4}".format(suspect_1, suspect_2, etc, etc) and add that to a variable
+
+use the [:] to get rid of the ", " from the very start of the string and add the edited str1 to a variable
+
+get the last value of the str1 by using [-1] and add that to a variable
+
+make a str2 eg ", " plus the variable of the last value of the str1 and add the to a variable
+
+get the length of the str1 and add it to a variable
+
++ 1 onto the int of the length of str1 and add that to a variable
+
+- 3 off the int of the length of str1 and add that to a variable
+
+use the [:] method to get the ", 'last value'" eg [len +1 variable:len -3 variable] and add the str3 to a variable
+
+replace the ", " in the str3 using .replace(", ", " and ") and add the new str4 to a variable
+
+strip the last ''''", " + last value''' using .strip and add the new str5 to a variable
+
+add str4 and str5 back together to form the new edited str and add that to a variable
+
+print the new edited str by using .format eg "dna fragment 1 matches suspect {0}".format(str)
+
+add a print() to seperate the nexted printed thing
+
+set the suspect_1/_2/ect/ect to nothing to they can be use again
+
+check if index of suspect 1 fragment 4 does not equal -1
+    change variable suspect_1 to ", 1"
+
+check if index of suspect 2 fragment 4 does not equal -1
+    change variable suspect_2 to ", 2"
+
+check if index of suspect 3 fragment 4 does not equal -1
+    change variable suspect_3 to ", 3"
+
+check if index of suspect 4 fragment 4 does not equal -1
+    change variable suspect_4 to ", 4"
+
+check if index of suspect 5 fragment 4 does not equal -1
+    change variable suspect_5 to ", 5"
+
+add all the variables of suspect_x to a str by using .format eg "{0}{1}{2}{3}{4}".format(suspect_1, suspect_2, etc, etc) and add that to a variable
+
+use the [:] to get rid of the ", " from the very start of the string and add the edited str1 to a variable
+
+get the last value of the str1 by using [-1] and add that to a variable
+
+make a str2 eg ", " plus the variable of the last value of the str1 and add the to a variable
+
+get the length of the str1 and add it to a variable
+
++ 1 onto the int of the length of str1 and add that to a variable
+
+- 3 off the int of the length of str1 and add that to a variable
+
+use the [:] method to get the ", 'last value'" eg [len +1 variable:len -3 variable] and add the str3 to a variable
+
+replace the ", " in the str3 using .replace(", ", " and ") and add the new str4 to a variable
+
+strip the last ''''", " + last value''' using .strip and add the new str5 to a variable
+
+add str4 and str5 back together to form the new edited str and add that to a variable
+
+print the new edited str by using .format eg "dna fragment 1 matches suspect {0}".format(str)
+
+add a print() to seperate the nexted printed thing
+
+set the suspect_1/_2/ect/ect to nothing to they can be use again
+
+check if index of suspect 1 fragment 5 does not equal -1
+    change variable suspect_1 to ", 1"
+
+check if index of suspect 2 fragment 5 does not equal -1
+    change variable suspect_2 to ", 2"
+
+check if index of suspect 3 fragment 5 does not equal -1
+    change variable suspect_3 to ", 3"
+
+check if index of suspect 4 fragment 5 does not equal -1
+    change variable suspect_4 to ", 4"
+
+check if index of suspect 5 fragment 5 does not equal -1
+    change variable suspect_5 to ", 5"
+
+add all the variables of suspect_x to a str by using .format eg "{0}{1}{2}{3}{4}".format(suspect_1, suspect_2, etc, etc) and add that to a variable
+
+use the [:] to get rid of the ", " from the very start of the string and add the edited str1 to a variable
+
+get the last value of the str1 by using [-1] and add that to a variable
+
+make a str2 eg ", " plus the variable of the last value of the str1 and add the to a variable
+
+get the length of the str1 and add it to a variable
+
++ 1 onto the int of the length of str1 and add that to a variable
+
+- 3 off the int of the length of str1 and add that to a variable
+
+use the [:] method to get the ", 'last value'" eg [len +1 variable:len -3 variable] and add the str3 to a variable
+
+replace the ", " in the str3 using .replace(", ", " and ") and add the new str4 to a variable
+
+strip the last ''''", " + last value''' using .strip and add the new str5 to a variable
+
+add str4 and str5 back together to form the new edited str and add that to a variable
+
+print the new edited str by using .format eg "dna fragment 1 matches suspect {0}".format(str)
+
+add a print() to seperate the nexted printed thing
+
+set the suspect_1/_2/ect/ect to nothing to they can be use again
+
+check if index of suspect 1 fragment 6 does not equal -1
+    change variable suspect_1 to ", 1"
+
+check if index of suspect 2 fragment 6 does not equal -1
+    change variable suspect_2 to ", 2"
+
+check if index of suspect 3 fragment 6 does not equal -1
+    change variable suspect_3 to ", 3"
+
+check if index of suspect 4 fragment 6 does not equal -1
+    change variable suspect_4 to ", 4"
+
+check if index of suspect 5 fragment 6 does not equal -1
+    change variable suspect_5 to ", 5"
+
+add all the variables of suspect_x to a str by using .format eg "{0}{1}{2}{3}{4}".format(suspect_1, suspect_2, etc, etc) and add that to a variable
+
+use the [:] to get rid of the ", " from the very start of the string and add the edited str1 to a variable
+
+get the last value of the str1 by using [-1] and add that to a variable
+
+make a str2 eg ", " plus the variable of the last value of the str1 and add the to a variable
+
+get the length of the str1 and add it to a variable
+
++ 1 onto the int of the length of str1 and add that to a variable
+
+- 3 off the int of the length of str1 and add that to a variable
+
+use the [:] method to get the ", 'last value'" eg [len +1 variable:len -3 variable] and add the str3 to a variable
+
+replace the ", " in the str3 using .replace(", ", " and ") and add the new str4 to a variable
+
+strip the last ''''", " + last value''' using .strip and add the new str5 to a variable
+
+add str4 and str5 back together to form the new edited str and add that to a variable
+
+print the new edited str by using .format eg "dna fragment 1 matches suspect {0}".format(str)

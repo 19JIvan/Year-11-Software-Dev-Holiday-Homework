@@ -1,0 +1,74 @@
+suspect_1 = this holds the value of the suspects number if that suspect matches that fragment
+suspect_2 = this holds the value of the suspects number if that suspect matches that fragment
+suspect_3 = this holds the value of the suspects number if that suspect matches that fragment
+suspect_4 = this holds the value of the suspects number if that suspect matches that fragment
+suspect_5 = this holds the value of the suspects number if that suspect matches that fragment
+
+fragDnafile1 = this holds the dna fragment file open ready for access
+fragDnafile2 = this holds the dna fragment file open ready for access
+fragDnafile3 = this holds the dna fragment file open ready for access
+fragDnafile4 = this holds the dna fragment file open ready for access
+fragDnafile5 = this holds the dna fragment file open ready for access
+fragDnafile6 = this holds the dna fragment file open ready for access
+
+susDnafile1 = this holds the suspects dna file open ready for access
+susDnafile2 = this holds the suspects dna file open ready for access
+susDnafile3 = this holds the suspects dna file open ready for access
+susDnafile4 = this holds the suspects dna file open ready for access
+susDnafile5 = this holds the suspects dna file open ready for access
+
+susDnavar1 = this variable holds what is in the suspects dna file
+susDnavar2 = this variable holds what is in the suspects dna file
+susDnavar3 = this variable holds what is in the suspects dna file
+susDnavar4 = this variable holds what is in the suspects dna file
+susDnavar5 = this variable holds what is in the suspects dna file
+
+fragDnavar1 = this variable holds what is in the dna fragments file
+fragDnavar2 = this variable holds what is in the dna fragments file
+fragDnavar3 = this variable holds what is in the dna fragments file
+fragDnavar4 = this variable holds what is in the dna fragments file
+fragDnavar5 = this variable holds what is in the dna fragments file
+fragDnavar6 = this variable holds what is in the dna fragments file
+
+indexPossus1frag1 = this holds what the index is of that dna fragment in that suspect
+indexPossus1frag2 = this holds what the index is of that dna fragment in that suspect
+indexPossus1frag3 = this holds what the index is of that dna fragment in that suspect
+indexPossus1frag4 = this holds what the index is of that dna fragment in that suspect
+indexPossus1frag5 = this holds what the index is of that dna fragment in that suspect
+indexPossus1frag6 = this holds what the index is of that dna fragment in that suspect
+indexPossus2frag1 = this holds what the index is of that dna fragment in that suspect
+indexPossus2frag2 = this holds what the index is of that dna fragment in that suspect
+indexPossus2frag3 = this holds what the index is of that dna fragment in that suspect
+indexPossus2frag4 = this holds what the index is of that dna fragment in that suspect
+indexPossus2frag5 = this holds what the index is of that dna fragment in that suspect
+indexPossus2frag6 = this holds what the index is of that dna fragment in that suspect
+indexPossus3frag1 = this holds what the index is of that dna fragment in that suspect
+indexPossus3frag2 = this holds what the index is of that dna fragment in that suspect
+indexPossus3frag3 = this holds what the index is of that dna fragment in that suspect
+indexPossus3frag4 = this holds what the index is of that dna fragment in that suspect
+indexPossus3frag5 = this holds what the index is of that dna fragment in that suspect
+indexPossus3frag6 = this holds what the index is of that dna fragment in that suspect
+indexPossus4frag1 = this holds what the index is of that dna fragment in that suspect
+indexPossus4frag2 = this holds what the index is of that dna fragment in that suspect
+indexPossus4frag3 = this holds what the index is of that dna fragment in that suspect
+indexPossus4frag4 = this holds what the index is of that dna fragment in that suspect
+indexPossus4frag5 = this holds what the index is of that dna fragment in that suspect
+indexPossus4frag6 = this holds what the index is of that dna fragment in that suspect
+indexPossus5frag1 = this holds what the index is of that dna fragment in that suspect
+indexPossus5frag2 = this holds what the index is of that dna fragment in that suspect
+indexPossus5frag3 = this holds what the index is of that dna fragment in that suspect
+indexPossus5frag4 = this holds what the index is of that dna fragment in that suspect
+indexPossus5frag5 = this holds what the index is of that dna fragment in that suspect
+indexPossus5frag6 = this holds what the index is of that dna fragment in that suspect
+
+suspects0 = this str holds all the suspects_x using .format
+suspects1 = this holds the str that has the first two front characters removed
+suspects2 = this holds the last value of the str
+suspects3 = this hold a mixed str that is then used to strip stuff from the normal str
+suspectslen0 = this holds the length of the normal str
+suspectslen11 = this holds the length with + 1 onto the value
+suspectslen12 = this holds the length with - 3 off the value
+suspects4 = this hold a str that has a section copied from the normal str
+suspects5 = this holds the str that has been copied then .replaced has been used on it to edited it
+suspects6 = this strips the '''", " + last value''' from the normal str
+suspects = this holds the added together normal str and edited str so its ready for printing
